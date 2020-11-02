@@ -7,9 +7,9 @@ This site seeks to document the assignments, process, and design decisions I mad
 In this phase I created some Design IDs (a warm up design exercise), explored potential project ideas, formalized a project idea into a project brief, and wrote a consent narrative to share with user interviewees. All of these artifacts can be found below. 
 
 ### Design IDs
-![Recipe Card Design ID](https://uxd.github.io/images/di1.png) 
-![Film Reel Design ID](https://uxd.github.io/images/di2.png) 
-![Portfolio Website Design ID](https://uxd.github.io/images/di3.png) 
+![Recipe Card Design ID](https://uxd.github.io/di1.png) 
+![Film Reel Design ID](https://uxd.github.io/di2.png) 
+![Portfolio Website Design ID](https://uxd.github.io/di3.png) 
 
 ### Project Ideation 
 Nomadic Living Recommendations
